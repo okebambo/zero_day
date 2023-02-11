@@ -1,1 +1,1 @@
-This is the xero_day project
+This is zero_day repo
